@@ -21,4 +21,4 @@ private:
 	~Window();
 };
 
-#endif // DEBUG
+#endif
