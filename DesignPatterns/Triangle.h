@@ -6,6 +6,7 @@ class Triangle : public GameObject
 {
 public:
 	void update();
+	void attach(Observer* observer);
 	Triangle();
 	~Triangle();
 };
